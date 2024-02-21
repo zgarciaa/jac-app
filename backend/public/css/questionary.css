@@ -1,0 +1,21 @@
+.container-questions {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-send {
+    text-align: right;
+}
+
+.person-information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
